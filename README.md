@@ -1,2 +1,2 @@
 # Web-Dev-Demo
-This is the demo for web development class 
+This is the demo for web development class.
